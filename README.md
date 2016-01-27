@@ -1,2 +1,2 @@
 # hello-world
-hello GItHUb
+hello GItHub.my first GitHub repo.
